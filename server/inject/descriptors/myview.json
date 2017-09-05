@@ -5,6 +5,11 @@
       "type": "identifier",
       "control": "exists",
       "selectContains": "Assigned to Me (Unresolved)"
+    },
+    "viewissueslink": {
+      "type": "action",
+      "selector": "a",
+      "control": "action.link"
     }
   },
   "connect": [],
