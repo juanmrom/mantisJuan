@@ -74,5 +74,14 @@
       "control": "exists"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isViewissues"
+      ],
+      "screens": [
+        "viewissues"
+      ]
+    }
+  ]
 }
