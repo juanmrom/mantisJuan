@@ -52,7 +52,7 @@
       "selector": ".button",
       "control": "action.button"
     },
-    "IsLogin": {
+    "iIsLogin": {
       "type": "identifier",
       "selectContains": "login",
       "control": "exists",
