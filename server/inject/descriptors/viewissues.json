@@ -29,7 +29,9 @@
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td",
+            "selectIndex": 8
           },
           "severity": {
             "type": "string",
