@@ -55,7 +55,7 @@
     "iIsLogin": {
       "type": "identifier",
       "control": "exists",
-      "selector": ".button[value='Login']",
+      "selector": ".button",
       "frameSelector": [
         null
       ]
