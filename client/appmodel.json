@@ -95,5 +95,14 @@
         }
       }
     }
+  },
+  "myview": {
+    "type": "object",
+    "properties": {
+      "viewissueslink": {
+        "type": "action"
+      }
+    },
+    "selectContains": "Assigned to Me (Unresolved)"
   }
 }
