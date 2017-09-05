@@ -34,7 +34,10 @@
       },
       "control": "text",
       "selectContains": "Your account may be disabled or blocked or the username/password you entered is incorrect.",
-      "selector": "font"
+      "selector": "font",
+      "frameSelector": [
+        null
+      ]
     },
     "submit": {
       "type": "action",
@@ -53,8 +56,20 @@
       "type": "identifier",
       "selectContains": "login",
       "control": "exists",
-      "selector": ".form-title"
+      "selector": ".form-title",
+      "frameSelector": [
+        null
+      ]
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "IsLogin"
+      ],
+      "screens": [
+        "login"
+      ]
+    }
+  ]
 }
