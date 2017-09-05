@@ -43,7 +43,8 @@
           "type": "string"
         }
       },
-      "selector": ".button"
+      "selector": ".button",
+      "control": "action.button"
     }
   },
   "connect": []
