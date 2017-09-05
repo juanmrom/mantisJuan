@@ -23,7 +23,7 @@
             },
             "selector": "td",
             "control": "property.innerHTML",
-            "selectIndex": 6
+            "selectIndex": 10
           },
           "status": {
             "type": "string",
