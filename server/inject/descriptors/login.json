@@ -61,7 +61,8 @@
   "connect": [
     {
       "match": [
-        "IsLogin"
+        "IsLogin",
+        "isLogin"
       ],
       "screens": [
         "login"
