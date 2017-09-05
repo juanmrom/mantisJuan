@@ -48,7 +48,8 @@
       },
       "update": {
         "type": "none"
-      }
+      },
+      "selectorAll": "$(\"#buglist tr[bgcolor]\")"
     }
   },
   "connect": []
