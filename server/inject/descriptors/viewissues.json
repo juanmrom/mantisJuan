@@ -32,7 +32,7 @@
             },
             "selector": "td",
             "selectIndex": 8,
-            "control": "property.innerHTML"
+            "control": "property.innerText"
           },
           "severity": {
             "type": "string",
