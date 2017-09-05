@@ -4,7 +4,8 @@
     "ismyview": {
       "type": "identifier",
       "control": "exists",
-      "selectContains": "Assigned to Me (Unresolved)"
+      "selectContains": "Assigned to Me (Unresolved)",
+      "selector": ".subtle"
     },
     "viewissueslink": {
       "type": "action",
