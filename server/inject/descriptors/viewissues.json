@@ -21,7 +21,9 @@
             "update": {
               "type": "none"
             },
-            "selector": ".left"
+            "selector": "td",
+            "control": "property.innerHTML",
+            "selectIndex": 6
           },
           "status": {
             "type": "string",
