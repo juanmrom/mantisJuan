@@ -9,7 +9,7 @@
     },
     "viewissueslink": {
       "type": "action",
-      "selector": "a",
+      "selector": "a[href*='view_all_bug']",
       "control": "action.link"
     }
   },
