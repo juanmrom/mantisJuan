@@ -62,8 +62,7 @@
     "isViewissues": {
       "type": "identifier",
       "selector": ".floatleft",
-      "control": "exits",
-      "selectContains": "Viewing Issues"
+      "control": "exits"
     }
   },
   "connect": []
