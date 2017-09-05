@@ -58,15 +58,5 @@
       "control": "exists"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "IsLogin",
-        "isLogin"
-      ],
-      "screens": [
-        "login"
-      ]
-    }
-  ]
+  "connect": []
 }
