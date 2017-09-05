@@ -12,6 +12,13 @@
       "control": "action.link"
     }
   },
-  "connect": [],
+  "connect": [
+    {
+      "match": [
+        "ismyview"
+      ],
+      "action": "viewissueslink"
+    }
+  ],
   "selectContains": "Assigned to Me (Unresolved)"
 }
