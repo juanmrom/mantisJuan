@@ -54,9 +54,8 @@
     },
     "iIsLogin": {
       "type": "identifier",
-      "selectContains": "login",
       "control": "exists",
-      "selector": ".form-title",
+      "selector": ".button{value='Login'}",
       "frameSelector": [
         null
       ]
