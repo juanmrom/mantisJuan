@@ -51,14 +51,6 @@
       },
       "selector": ".button",
       "control": "action.button"
-    },
-    "iIsLogin": {
-      "type": "identifier",
-      "control": "exists",
-      "selector": ".button",
-      "frameSelector": [
-        null
-      ]
     }
   },
   "connect": [
