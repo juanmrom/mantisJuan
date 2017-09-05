@@ -31,7 +31,8 @@
               "type": "none"
             },
             "selector": "td",
-            "selectIndex": 8
+            "selectIndex": 8,
+            "control": "property.innerHTML"
           },
           "severity": {
             "type": "string",
