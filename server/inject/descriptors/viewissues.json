@@ -67,6 +67,11 @@
         "type": "none"
       },
       "selectorAll": "#buglist tr[bgcolor]"
+    },
+    "isViewissues": {
+      "type": "identifier",
+      "selector": ".floatleft",
+      "control": "exists"
     }
   },
   "connect": []
