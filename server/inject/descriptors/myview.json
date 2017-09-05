@@ -15,15 +15,10 @@
   "connect": [
     {
       "match": [
+        "ismyview",
         "ismyview"
       ],
       "action": "viewissueslink"
-    },
-    {
-      "match": [],
-      "screens": [
-        "blank"
-      ]
     }
   ],
   "selectContains": "Assigned to Me (Unresolved)"
