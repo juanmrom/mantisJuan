@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "ismyview": {
+      "type": "identifier",
+      "selector": "body",
+      "control": "property.innerText"
+    }
+  },
+  "connect": [],
+  "selectContains": "Assigned to Me (Unresolved)"
+}
