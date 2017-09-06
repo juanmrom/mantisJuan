@@ -1,1 +1,5 @@
-{}
+{
+ "username": "administrator",
+ "password": "powwow",
+ "isLogin": true
+}
