@@ -14,5 +14,47 @@
         "value": 2
       }
     ]
+  },
+  "severity": {
+    "options": [
+      {
+        "label": "feature",
+        "value": "10"
+      },
+      {
+        "label": "trivial",
+        "value": "20"
+      },
+      {
+        "label": "text",
+        "value": "30"
+      },
+      {
+        "label": "tweak",
+        "value": "40"
+      },
+      {
+        "label": "minor",
+        "value": "50"
+      },
+      {
+        "label": "major",
+        "value": "60"
+      },
+      {
+        "label": "crash",
+        "value": "70"
+      },
+      {
+        "label": "block",
+        "value": "80"
+      },
+      {},
+      {}
+    ],
+    "selected": {
+      "label": "minor",
+      "value": "50"
+    }
   }
 }

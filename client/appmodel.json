@@ -113,10 +113,16 @@
         "type": "action"
       },
       "category": {
-        "type": "select"
+        "type": "select",
+        "update": {
+          "type": "none"
+        }
       },
       "severity": {
-        "type": "select"
+        "type": "select",
+        "update": {
+          "type": "none"
+        }
       },
       "summary": {
         "type": "string"
