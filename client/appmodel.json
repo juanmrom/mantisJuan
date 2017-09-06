@@ -111,6 +111,18 @@
     "properties": {
       "submit": {
         "type": "action"
+      },
+      "category": {
+        "type": "select"
+      },
+      "severity": {
+        "type": "select"
+      },
+      "summary": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
       }
     }
   }
