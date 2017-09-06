@@ -29,6 +29,11 @@
         "type": "object",
         "properties": {}
       }
+    },
+    "isreportissues": {
+      "type": "identifier",
+      "control": "exists",
+      "selectContains": "Enter Report Details"
     }
   },
   "connect": []
