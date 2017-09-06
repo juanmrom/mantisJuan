@@ -23,8 +23,8 @@
             <!--User Input-->
             <!--User Input-->
             <!--User Input-->
-            <select-list data-comp-id="selectList.1">Category</select-list>
-            <select-list data-comp-id="selectList.2">Severity</select-list>
+            <select-list data-comp-id="selectList.1" ng-model="data.category">Category</select-list>
+            <select-list data-comp-id="selectList.2" ng-model="data.severity">Severity</select-list>
         </div>
         <!--Container 1-->
         <!--Form Section-->
@@ -97,8 +97,8 @@
                 <ion-list data-comp-id="ionic-list.1"></ion-list>
             </div>
         </div>
-        <div class="row" data-comp-id="row.7">
-            <div class="col" data-comp-id="column.7">
+        <div class="row" data-comp-id="row.5">
+            <div class="col" data-comp-id="column.6">
                 <button class="button button-block" data-comp-id="button.3"
                     ng-click="app.action('form', 'submit', this)" style="border-radius: 10px;">Submit</button>
             </div>
