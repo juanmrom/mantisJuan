@@ -33,7 +33,8 @@
     "isreportissues": {
       "type": "identifier",
       "control": "exists",
-      "selectContains": "Enter Report Details"
+      "selectContains": "Enter Report Details",
+      "selector": ".form-title"
     }
   },
   "connect": []
