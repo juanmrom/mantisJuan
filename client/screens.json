@@ -35,6 +35,13 @@
       "sourceScreenId": "app.tableviewadvanced.tableviewadvancedconfident",
       "sourceAppId": "universaltemplates",
       "model": "viewissues"
+    },
+    {
+      "id": "reportissues",
+      "name": "reportissues",
+      "sourceScreenId": "app.formlarge.formlargecaptivating",
+      "sourceAppId": "universaltemplates",
+      "model": "reportissues"
     }
   ],
   "sourceAppId": "_blank",
