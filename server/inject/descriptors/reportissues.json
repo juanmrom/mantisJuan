@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "comment": "Forms",
+  "properties": {
+    "submit": {
+      "type": "action"
+    },
+    "category": {
+      "type": "select",
+      "update": {
+        "type": "none"
+      }
+    },
+    "severity": {
+      "type": "select",
+      "update": {
+        "type": "none"
+      }
+    },
+    "summary": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "attachment": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  },
+  "connect": []
+}
