@@ -123,6 +123,13 @@
       },
       "description": {
         "type": "string"
+      },
+      "attachment": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {}
+        }
       }
     }
   }
